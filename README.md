@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<!-- <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">  -->
+
+
 ###
 
 <p align="left">My name is Rajesh Raman Bosak and I'm a Senior Software Developer.</p>
+
 
 
 ###
@@ -59,15 +63,15 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rajeshraman63&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshraman63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=rajeshraman63&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
-
-
 ###
+
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
