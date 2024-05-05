@@ -17,16 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Rajesh Raman Bosak and I'm a Senior Software Developer, from India.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Building software solutions since 2019<br>📚 I'm currently working on NextJs, NodeJs
-
+<p align="left">My name is Rajesh Raman Bosak and I'm a Senior Software Developer.</p>
 ###
 
 <h2 align="left">I code with</h2>
