@@ -69,13 +69,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center"> 
-
-  ![](https://leetcard.jacoblin.cool/rajeshbosak89?ext=heatmap)
-
-</div>
-
-
 ###
 
 <h2 align="left">Stats </h2>
@@ -90,6 +83,18 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rajeshraman63&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
+
+
+### 
+
+<h2 align="left">Coding </h2>
+
+<div align="center"> 
+
+  ![](https://leetcard.jacoblin.cool/rajeshbosak89?ext=heatmap)
+
+</div>
+
 
 ###
 
